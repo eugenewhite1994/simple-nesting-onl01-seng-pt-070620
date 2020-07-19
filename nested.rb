@@ -59,7 +59,7 @@ programmer_hash =
 	{
 	:yukihiro_matsumoto => {
   :known_for => "Ruby",
-    :languages => ["LISP, C"]
+  :languages => ["LISP, C"]
    }
  	
         :grace_hopper => {
@@ -77,7 +77,6 @@ programmer_hash =
      }
 
   end
-end
 
 def changing_alan
 	programmer_hash = 
