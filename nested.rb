@@ -94,11 +94,10 @@ def changing_alan
           :languages => ["C"]
         }
      }
+   end
      
      alans_new_info = "GUI"
      
-     
-end
 
 def adding_to_dennis
 	programmer_hash = 
